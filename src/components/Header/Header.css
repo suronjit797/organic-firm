@@ -1,0 +1,35 @@
+.main_nav{
+    transition: .3s ease;
+    margin: 20px 0;
+}
+
+.main_nav ul{
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_nav .nav_items{
+    list-style: none;
+}
+.main_nav .nav_items .nav_links{
+    display: inline-block;
+    padding: 5px 20px;
+    color: black;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.137);
+    font-weight: 500;
+    transition: .3s ease;
+
+}
+
+.main_nav .nav_items:first-child .nav_links{
+    padding-left: 3px;
+}
+.main_nav .nav_items:last-child .nav_links{
+    padding-right: 3px;
+}
+.main_nav .nav_items .nav_links.active{
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+}
