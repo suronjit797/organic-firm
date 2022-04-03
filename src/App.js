@@ -5,7 +5,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Home from './page/Home/Home';
-import Review from './page/Review/Review';
+import ReviewPage from './page/Review/ReviewPage';
 import Dashboard from './page/Dashboard/Dashboard';
 import Blogs from './page/Blogs/Blogs';
 import About from './page/About/About';
@@ -20,7 +20,7 @@ function App() {
       <main className='container mb-5'>
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/review' element={<Review />} />
+          <Route path='/review' element={<ReviewPage />} />
           <Route path='/dashboard' element={<Dashboard />} />
           <Route path='/blogs' element={<Blogs />} />
           <Route path='/about' element={<About />} />

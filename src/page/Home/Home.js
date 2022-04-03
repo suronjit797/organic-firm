@@ -45,7 +45,7 @@ const Home = () => {
                         ) : (
 
                             reviews.map((review, ind) => (
-                                ind < 3 && <ReviewCard reviewItem={review} />
+                                ind < 3 && <ReviewCard key={review.id} reviewItem={review} />
                             ))
                         )
                     }

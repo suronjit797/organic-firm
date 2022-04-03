@@ -20,7 +20,7 @@ const ReviewCard = ({ reviewItem }) => {
                 </div>
                 <div className="card-body">
                     <h5 className="card-title"> {name ? name : 'unknown'} </h5>
-                    <p className="card-text"> {review ? review : 'no review found'} </p>
+                    <p className="card-text text_justify"> {review ? review : 'no review found'} </p>
                     <b>Ratings:  {ratings ? ratings : 0}</b>
                 </div>
             </div>

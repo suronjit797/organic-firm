@@ -10,7 +10,7 @@ let useReview = () => {
         .then(data=>setReviews(data))
     }, [])
 
-    return [reviews, setReviews]
+    return [reviews, setReviews];
 }
 
-export default useReview
+export default useReview;

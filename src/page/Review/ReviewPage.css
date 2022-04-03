@@ -1,0 +1,6 @@
+.review_page .review_card:nth-child(2n){
+    margin-left: 50px;
+}
+.review_page .review_card:nth-child(2n-1){
+    margin-right: 50px;
+}
