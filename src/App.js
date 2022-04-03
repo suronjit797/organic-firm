@@ -10,10 +10,11 @@ import Dashboard from './page/Dashboard/Dashboard';
 import Blogs from './page/Blogs/Blogs';
 import About from './page/About/About';
 import NotFound from './page/NotFound/NotFound';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <div>
+    <div className='app'>
       <Header />
 
       <main className='container'>
@@ -27,6 +28,8 @@ function App() {
 
         </Routes>
       </main>
+
+      <Footer />
 
 
 

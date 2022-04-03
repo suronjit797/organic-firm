@@ -10,11 +10,15 @@ html{
 a, a:hover{
     text-decoration: none !important;
 }
-main{
-    padding-top: 60px;
-}
+
 body{
     background-color: #eeeef0 !important;
+}
+
+body .app{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 img{
@@ -27,11 +31,16 @@ img{
 .priamry_background{
     background-color: var(--primary-color);
 }
+.text_justify{
+    text-align: justify;
+}
 
 /* my_primay_button */
 
 .primary_button{
     background: rgb(27, 27, 27);
+    display: inline-block;
+    padding: 10px 40px ;
     border-radius: 5px;
     position: relative;
     overflow: hidden;
