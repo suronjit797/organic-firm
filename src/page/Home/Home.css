@@ -2,3 +2,10 @@
     font-size: 72px;
     font-weight: 800;
 }
+
+.home_review-main .review_card:nth-child(2n){
+    margin-left: 50px;
+}
+.home_review-main .review_card:nth-child(2n-1){
+    margin-right: 50px;
+}

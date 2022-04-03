@@ -1,0 +1,50 @@
+[
+    {
+        "id": "6249d1365b3e4441eca86fb2",
+        "picture": "http://placehold.it/32x32",
+        "name": "Cantrell Carrillo",
+        "review": "Est voluptate ullamco sint non nisi eu. Culpa tempor anim est dolor est quis mollit duis. Excepteur veniam et ad duis ipsum mollit esse fugiat adipisicing do consectetur in. Cupidatat fugiat et tempor sint ex nostrud dolore cillum.",
+        "ratings": 4
+    },
+    {
+        "id": "6249d1368f792447cda1f94a",
+        "name": "Aimee Weber",
+        "review": "Mollit irure incididunt veniam dolore est tempor cillum qui deserunt ad. Cillum dolore in amet occaecat velit cupidatat sint in enim. Sit id do mollit do ut laborum magna ea sit.",
+        "ratings": 4
+    },
+    {
+        "id": "6249d136d6ca173a1af4c23c",
+        "picture": "http://placehold.it/32x32",
+        "name": "Jasmine Dorsey",
+        "review": "Cupidatat consequat quis pariatur aliquip esse. Sunt cupidatat nisi nostrud ad enim incididunt officia. Officia aliqua in mollit enim do quis reprehenderit sint adipisicing sunt sit cupidatat minim consectetur. Officia cillum culpa laborum dolore irure deserunt tempor duis minim veniam. Magna adipisicing enim minim dolore aute eu est tempor dolore.",
+        "ratings": 5
+    },
+    {
+        "id": "6249d136eea2497ef8c4b1e8",
+        "picture": "http://placehold.it/32x32",
+        "name": "Jordan Gay",
+        "review": "Eiusmod sunt eiusmod dolore aliqua sit cillum mollit id veniam velit ullamco dolor in ullamco. Quis sint nulla tempor dolore aliqua. Qui sint laborum enim ut eiusmod nostrud mollit officia consequat minim. Aliquip est consequat culpa velit ullamco. Reprehenderit quis laboris velit culpa eu aliquip officia. Est velit qui cillum veniam commodo consectetur exercitation.",
+        "ratings": 0
+    },
+    {
+        "id": "6249d1362b9169c93d97911d",
+        "picture": "http://placehold.it/32x32",
+        "name": "Sanchez Mckay",
+        "review": "Est eiusmod nisi consequat mollit exercitation minim sit non. Veniam fugiat eu sint dolore commodo nostrud fugiat ut nostrud velit anim ad magna nisi. Cupidatat esse commodo veniam ad sunt aliquip reprehenderit magna ut esse.",
+        "ratings": 4
+    },
+    {
+        "id": "6249d1366a344b1074492fd0",
+        "picture": "http://placehold.it/32x32",
+        "name": "Christina Mann",
+        "review": "Adipisicing exercitation cillum aute aute aliquip. Cillum laboris dolore voluptate ipsum nulla ex adipisicing. Mollit occaecat consequat enim commodo veniam cillum excepteur nostrud. Ex mollit quis enim excepteur aliquip voluptate aliquip qui fugiat officia ipsum consequat fugiat. In sunt proident quis commodo officia ipsum velit.",
+        "ratings": 0
+    },
+    {
+        "id": "6249d136b6bc024af58e5b7d",
+        "picture": "http://placehold.it/32x32",
+        "name": "Darla Gamble",
+        "review": "Et laboris qui cillum laborum exercitation elit officia. Elit dolore est enim labore. Deserunt cupidatat pariatur voluptate officia cillum qui elit occaecat ad proident ex eu velit. Veniam duis minim sit esse ea proident. Esse aliqua sunt dolore nostrud ut eiusmod dolore ut. Et proident nostrud in ut.",
+        "ratings": 1
+    }
+]
