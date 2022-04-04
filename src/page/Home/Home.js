@@ -30,7 +30,6 @@ const Home = () => {
         }
         setReviews([ratingObject, ...reviews])
 
-        console.log(reviews)
     }
 
     const ratingHandler = e => {

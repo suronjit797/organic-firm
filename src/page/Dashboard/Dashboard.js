@@ -16,7 +16,7 @@ const Dashboard = () => {
 
 
     return (
-        <section className='dashboard'>
+        <section className='dashboard' style={{overflowX: 'hidden'}}>
             <div className="row g-5">
 
                 <div className="col-md-6">

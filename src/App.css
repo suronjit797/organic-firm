@@ -86,3 +86,6 @@ img{
     opacity: 1;
 }
 
+.root{
+    overflow-x: hidden;
+}

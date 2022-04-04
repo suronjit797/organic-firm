@@ -4,7 +4,7 @@ const Blog = ({item}) => {
     return (
         <div className='mb-5'>
             <h2> {item.question}? </h2>
-            <p> {item.answer} </p>
+            <p className='text_justify'> {item.answer} </p>
 
             {
                 item.tags.map((tag, ind)=> (
