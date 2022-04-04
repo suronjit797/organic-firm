@@ -2,7 +2,7 @@
     {
         "id": "624ac38c17fd537eec1fcd0d",
         "question": "What is context API",
-        "answer": "Proident amet in fugiat quis ea. Sunt fugiat pariatur magna in non sunt labore veniam magna adipisicing sint incididunt est. Et sit ipsum anim ad sit eu proident occaecat sint sint sunt nulla tempor duis. Mollit culpa adipisicing dolore elit nisi labore exercitation.",
+        "answer": "Context API is a feature of React that allows to share state across the entire app. The Context API is a React structure that enables to exchange unique details and assists in solving prop-drilling from all levels of application. This is the alternative to 'prop drilling' or moving props from grandparent to child to parent, and so on. Context is designed to share data that can be considered 'global' for a tree of React components. React.createContext() is returns a consumer and a provider. Provider is a component that as it's names suggests provides the state to its children. It will hold the 'store' and be the parent of all the components that might need that store. Consumer as it so happens is a component that consumes and uses the state.",
         "tags": [
             "laboris",
             "aliqua",
@@ -16,7 +16,7 @@
     {
         "id": "624ac38cc6a0c3b48ca9c8c3",
         "question": "What is semantic tag",
-        "answer": "Ut elit fugiat Lorem quis mollit nisi aute adipisicing et nostrud labore. Velit exercitation dolore sint officia dolore dolore aute sunt mollit mollit ullamco. Deserunt officia nulla dolore mollit voluptate adipisicing qui.",
+        "answer": "HTML5 tags are used to format content - these tags tell the browser how to display the content on the page. Semantic HTML5 addresses this shortcoming by defining specific tags to indicate clearly what role is played by the content those tags contain  Semantic tags make it clear to the browser what the meaning of a page and its content is.That clarity is also communicated with search engines, ensuring that the right  pages are delivered for the right queries. some semantic tag example abbr,acronym, blockquote,address,div etc.",
         "tags": [
             "officia",
             "veniam",
@@ -30,7 +30,7 @@
     {
         "id": "624ac38c5ffa09674b9888ab",
         "question": "Different between inline-block and block elements",
-        "answer": "Sunt dolor reprehenderit voluptate ea. Minim magna nostrud nulla deserunt veniam adipisicing reprehenderit exercitation aliqua aliqua. Tempor deserunt occaecat eiusmod tempor tempor minim labore aute dolor nisi nostrud sit sint ipsum. Excepteur exercitation magna adipisicing sunt nostrud minim pariatur cillum excepteur consequat adipisicing. Duis proident ipsum voluptate quis nulla Lorem officia. Eu magna amet ipsum et enim officia anim.",
+        "answer": "Inline elements that take up only as much space as needed and can fit around the content of elements on the same line. Inline elements has no hieght and width. it will fit on the same line as other text and will not show up on a new line nor take more space than its contents. A block element will take up the full width available to it by default, which does not allow for other elements to appear on the same line. inline-block Like inline elements but can also have a width and a height to separate itself from nearby elements. Can appear on the same line as other elements by default",
         "tags": [
             "tempor",
             "sunt",

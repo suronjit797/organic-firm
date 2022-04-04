@@ -29,6 +29,10 @@ const Home = () => {
             picture: "images/user1.png"
         }
         setReviews([ratingObject, ...reviews])
+        setUserName('')
+        setuserReview('')
+        setuserRating('')
+
 
     }
 
