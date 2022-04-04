@@ -35,6 +35,10 @@ img{
     text-align: justify;
 }
 
+.pointer{
+    cursor: pointer;
+}
+
 /* my_primay_button */
 
 .primary_button{
