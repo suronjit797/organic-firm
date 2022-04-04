@@ -50,7 +50,7 @@ const Home = () => {
                     <img src={flatCabbage} alt="flatCabbage" />
                 </div>
                 <div className="col-md-7 col-lg-9">
-                    <h1 className="text-capitalize home_header">
+                    <h1 className="text-capitalize home_header my-4">
                         <span className='primary_color'>Flat </span> Cabbage
                     </h1>
                     <h4 className='fs-3 text-capitalize my-3'>

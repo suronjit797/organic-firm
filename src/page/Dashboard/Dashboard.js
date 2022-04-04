@@ -21,7 +21,7 @@ const Dashboard = () => {
 
                 <div className="col-md-6">
                     <h4 className="text-center text-primary text-uppercase"> Month wise sell </h4>
-                    <div className="p-5">
+                    <div className="px-5 pb-5 pt-3">
                         <ResponsiveContainer width='100%' aspect={4.0 / 3.0}>
                             <LineChart width={500} height={300} data={data} margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>
                                 <Line type="monotone" dataKey="sell" stroke="#8884d8" activeDot={{ r: 8 }} />
@@ -33,10 +33,9 @@ const Dashboard = () => {
                     </div>
                 </div>
 
-
                 <div className="col-md-6">
                     <h4 className="text-center text-primary text-uppercase"> investment vs revenue </h4>
-                    <div className="p-5">
+                    <div className="px-5 pb-5 pt-3">
                         <ResponsiveContainer width='100%' aspect={4.0 / 3.0}>
                             <AreaChart
                                 width={500}
@@ -60,10 +59,9 @@ const Dashboard = () => {
                     </div>
                 </div>
 
-
                 <div className="col-md-6">
                     <h4 className="text-center text-primary text-uppercase"> investment vs revenue </h4>
-                    <div className="p-5">
+                    <div className="px-5 pb-5 pt-3">
                         <ResponsiveContainer width='100%' aspect={4.0 / 3.0}>
                             <BarChart
                                 width={500}
@@ -88,10 +86,9 @@ const Dashboard = () => {
                     </div>
                 </div>
 
-
                 <div className="col-md-6">
                     <h4 className="text-center text-primary text-uppercase"> investment vs revenue </h4>
-                    <div className="p-5">
+                    <div className="px-5 pb-5 pt-3">
                         <ResponsiveContainer width='100%' aspect={4.0 / 3.0}>
                             <PieChart width={400} height={400}>
                                 <Pie
@@ -116,7 +113,6 @@ const Dashboard = () => {
                         </ResponsiveContainer>
                     </div>
                 </div>
-
 
             </div>
         </section>

@@ -3,9 +3,19 @@
     align-items: center;
     border: 1px solid lightgray;
     border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .review_card img{
     height: 60px;
     width: 60px;
     border-radius: 50%;
+}
+
+@media (max-width: 576px) {
+    .review_card{
+        flex-direction: column;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        padding: 20px 0;
+    }
 }
