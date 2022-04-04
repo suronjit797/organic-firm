@@ -11,7 +11,7 @@ const Home = () => {
     // dynamic title
     document.title = 'Organic Farm || Home'
 
-    const [reviews, setReviews] = useReview()
+    const [reviews] = useReview()
 
 
     return (
@@ -34,6 +34,7 @@ const Home = () => {
                     <Link to="/buy-now" className='primary_button mt-3'> <span>Buy now</span> </Link>
                 </div>
             </div>
+            <hr className='my-5'/>
 
             <div className="home_review mt-5">
                 <h1 className="text-center fw-bold mb-4"> Cutomer Review ({reviews.length}) </h1>

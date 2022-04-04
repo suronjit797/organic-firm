@@ -15,6 +15,7 @@ const ReviewCard = ({ reviewItem }) => {
     return (
         <>
             <div className=" review_card mb-3 px-4">
+
                 <div>
                     <img src={picture ? picture : noUser} className="img-fluid rounded-start" alt={picture ? picture : noUser} />
                 </div>
