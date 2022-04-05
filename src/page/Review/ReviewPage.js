@@ -21,7 +21,7 @@ const ReviewPage = () => {
         <div className='review_page'>
             <h1 className="text-center"> Review: ({reviews.length}) </h1>
             <h3 className="text-center mb-4">
-                Rating: <small className='text-secondary'>{reviewSum} / {reviewTotal}</small>
+                Rating: <small className='text-secondary'>{reviewSum} / {reviews.length}</small>
             </h3>
             {
                 reviews.length > 0 ? (

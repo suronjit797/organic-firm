@@ -1,0 +1,6 @@
+.coming_soon{
+    min-height: calc(100vh - 150px);
+    display: flex;
+    align-items: center;
+    place-content: center;
+}

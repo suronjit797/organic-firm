@@ -11,6 +11,7 @@ import Blogs from './page/Blogs/Blogs';
 import About from './page/About/About';
 import NotFound from './page/NotFound/NotFound';
 import Footer from './components/Footer/Footer';
+import ComingSoon from './page/ComingSoon/ComingSoon';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path='/dashboard' element={<Dashboard />} />
           <Route path='/blogs' element={<Blogs />} />
           <Route path='/about' element={<About />} />
+          <Route path='/buy-now' element={<ComingSoon />} />
           <Route path='*' element={<NotFound />} />
 
         </Routes>
